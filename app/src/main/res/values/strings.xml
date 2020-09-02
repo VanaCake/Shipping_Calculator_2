@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Shipping Calculator</string>
+    <string name="hint">Package weight...</string>
+    <string name="weight_label">Weight of the package</string>
+    <string name="baseText">Base Cost:</string>
+    <string name="addedText">Added Cost:</string>
+    <string name="totalText">Total Cost:</string>
+    <string name="weight_label2">In ounces</string>
 
 </resources>
